@@ -7,7 +7,7 @@ public class GameManager : MonoBehaviour
 {
     public float score;
     public string levelName; //this is used for tracking or identifying what game mode or level the player is
-    public TextMeshProUGUI timeMessage;
+    
     
 
     void Start()
