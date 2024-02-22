@@ -1086,7 +1086,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   score: 0
   levelName: Pong
-  timeMessage: {fileID: 546900339}
 --- !u!4 &633735428
 Transform:
   m_ObjectHideFlags: 0
@@ -2274,7 +2273,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   score: 0
   levelName: 
-  timeMessage: {fileID: 0}
 --- !u!1 &1378324525
 GameObject:
   m_ObjectHideFlags: 0
